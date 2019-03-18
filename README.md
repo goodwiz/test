@@ -5,8 +5,8 @@ write the brief describtion
 ## Contents
 
 * [What-is-this](# What-is-this)
-* [Requirements](#Requirement)
-* [How-to-use](# How-to-use)
+* [Requirements](#Requirements)
+* [How-to-use](# How)
 * [Postscript](#Postscript)
 
 ## What-is-this
@@ -26,7 +26,7 @@ More:
 * r2
 * r3
 
-## How-to-use
+## How
 * h1
 * h2
 * h3
