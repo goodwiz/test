@@ -6,10 +6,10 @@ write the brief describtion
 
 * [What-is-this](#What-is-this)
 * [Requirements](#Requirements)
-* [Howtouse](#Howtouse)
+* [How-to-use](#How-to-use)
 * [Postscripts](#Postscripts)
 
-## Whatisthis
+## What-is-this
 this is a code for ...
 
 Features:
@@ -26,7 +26,7 @@ More:
 * r2
 * r3
 
-## Howtouse
+## How-to-use
 * h1
 * h2
 * h3
