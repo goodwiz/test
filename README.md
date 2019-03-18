@@ -4,12 +4,12 @@ write the brief describtion
 
 ## Contents
 
-* [What is this](# What is this)
+* [What-is-this](# What-is-this)
 * [Requirements](#Requirements)
-* [How to use](# How to use)
+* [How-to-use](# How-to-use)
 * [Postscript](#Postscript)
 
-## What is this
+## What-is-this
 this is a code for ...
 
 Features:
@@ -26,7 +26,7 @@ More:
 * r2
 * r3
 
-## How to use
+## How-to-use
 * h1
 * h2
 * h3
