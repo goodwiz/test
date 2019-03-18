@@ -4,7 +4,7 @@ write the brief describtion
 
 ## Contents
 
-* [Whatisthis](#Whatisthis)
+* [What-is-this](#What-is-this)
 * [Requirements](#Requirements)
 * [Howtouse](#Howtouse)
 * [Postscripts](#Postscripts)
